@@ -131,11 +131,11 @@
 			"105": "La extensión del archivo no es válida.",
 			"109": "Petición inválida.",
 			"110": "Error desconocido.",
-			"111": "No fué posible completar la petición debido al tamaño del fichero.",
+			"111": "No fue posible completar la petición debido al tamaño del fichero.",
 			"115": "Ya existe un fichero o carpeta con ese nombre.",
 			"116": "No se ha encontrado la carpeta. Por favor, actualice y pruebe de nuevo.",
 			"117": "No se ha encontrado el fichero. Por favor, actualice la lista de ficheros y pruebe de nuevo.",
-			"118": "Las rutas origen y destino son iguales.",
+			"118": "Las rutas de origen y destino son iguales.",
 			"201": "Ya existía un fichero con ese nombre. El fichero subido ha sido renombrado como \"{name}\".",
 			"202": "Fichero inválido.",
 			"203": "Fichero inválido. El tamaño es demasiado grande.",
@@ -189,7 +189,7 @@
 		"rotateClockwise": "90&deg; Derecha",
 		"save": "Guardar",
 		"saveDialogFileExists": "Ya existe un archivo con el mismo nombre en la carpeta.",
-		"saveDialogOverwrite": "Sobreescribir archvio",
+		"saveDialogOverwrite": "Sobreescribir archivo",
 		"saveDialogSaveAs": "Guardar como:",
 		"saveDialogTitle": "Guardar cambios",
 		"title": "Editar Imagen",
@@ -207,7 +207,7 @@
 			"sepia": "Sepia",
 			"sharpen": "Enfocar",
 			"stackBlur": "Desenfocar",
-			"vibrance": "Vibrance"
+			"vibrance": "Intensidad"
 		},
 		"preset": {
 			"clarity": "Claridad",
